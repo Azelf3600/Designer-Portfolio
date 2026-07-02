@@ -35,7 +35,7 @@ const artworks = [
   { file: "LastStand.png", title: "Last Stand" },
   { file: "LichRedesign.png", title: "Lich Redesign" },
   { file: "LichVsWitch.png", title: "Lich vs Witch" },
-  { file: "LightsUnderTheSky.png", title: "Lights Under the Sky" },
+  { file: "LightsUndertheSky.png", title: "Lights Under the Sky" },
   { file: "LucasTang.png", title: "Lucas Tang" },
   { file: "MageAgainstTheFrostDemon.png", title: "Mage Against the Frost Demon" },
   { file: "MonicaHeadshot.png", title: "Monica Headshot" },
